@@ -1,1 +1,5 @@
-https://discordapp.com/api/webhooks/695687671216996462/bLGdsi39fAwLfXiwtJ_gDog2Mu0L004Xya5RFcYK8blFwpinCBDd7rKpIQ5KVYGBoKyy
+{
+  "title": "```Правила```",
+  "description": "@🌙Editor\n@𝙽𝚒𝚝𝚛𝚘 𝙱𝚘𝚘𝚜𝚝𝚎𝚛\n@⌜SUPPORT⌟\n@🌙Editor\n@𝙽𝚒𝚝𝚛𝚘 𝙱𝚘𝚘𝚜𝚝𝚎𝚛\n@⌜SUPPORT⌟\n@🌙Editor\n@𝙽𝚒𝚝𝚛𝚘 𝙱𝚘𝚘𝚜𝚝𝚎𝚛\n@⌜SUPPORT⌟",
+  "color": 53380
+}
